@@ -97,8 +97,8 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
-.venv
+#.env Disabled as I want this to be in my repo
+#.venv Disabled as I want this to be there...
 env/
 venv/
 ENV/
@@ -110,7 +110,7 @@ venv.bak/
 .spyproject
 
 # Rope project settings
-.ropeproject
+# .ropeproject Looks better when disabled...
 
 # mkdocs documentation
 /site
