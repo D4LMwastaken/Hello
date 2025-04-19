@@ -10,6 +10,9 @@ def main():
     """
         A very unnecessary main function...
     """
-    print("Hello!") # Wow! So Basic
+    try:
+        print("Hello!") # Wow! So Basic
+    except Exception as e:
+        print(f"Error: {e}")
     
 main() # Runs the main function
