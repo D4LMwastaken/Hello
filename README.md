@@ -15,7 +15,7 @@ If not, go follow instructions [here!](https://www.geeksforgeeks.org/how-to-inst
 ### Steps to install (User, no need for system):
 Copy this into your terminal:
 ```bash
-curl -o hello https://github.com/D4LMwastaken/Hello/blob/643194119f96d2f52634f560bc4a46d92c96c73b/hello.py && chmod +x hello && mv hello ~/.local/bin/ && exec bash
+curl -o hello https://raw.github.com/D4LMwastaken/Hello/blob/643194119f96d2f52634f560bc4a46d92c96c73b/hello.py && chmod +x hello && mv hello ~/.local/bin/ && exec bash
 ```
 
 ### Steps to remove:
