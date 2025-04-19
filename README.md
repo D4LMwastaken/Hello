@@ -2,6 +2,10 @@
 
 A stupidly simple program that should not win "Terminal" Hackathon
 
+## Features
+* Copy and paste install, remove & run.
+* Website [here](https://d4lmwastaken.github.io/Hello/)
+
 ## Project structure:
 ```
 ├── .ropeproject # Project config folder for Zed, has nothing, go find out why...
