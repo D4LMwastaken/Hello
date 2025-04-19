@@ -12,7 +12,7 @@ def main():
     """
     try:
         print("Hello!") # Wow! So Basic
-    except Exception as e:
+    except Exception as e:# Prints exception if somehow this does not work...
         print(f"Error: {e}")
     
 main() # Runs the main function
